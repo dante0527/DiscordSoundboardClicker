@@ -1,7 +1,7 @@
 from pyautogui import moveTo, click
 from time import sleep
 
-for _ in range(1):
+for _ in range(3):
     rows = 8
     cols = 3
 
